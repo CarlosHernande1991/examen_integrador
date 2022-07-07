@@ -1,2 +1,2 @@
 # examen_integrador
-Maria Solano
+Maria 
